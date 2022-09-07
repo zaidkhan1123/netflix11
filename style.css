@@ -1,0 +1,79 @@
+.container{
+   height: 100vh;
+   width: 100%;
+    background-image:  url(./PK-en-20220829-popsignuptwoweeks-perspective_alpha_website_medium.jpg) ;
+    background-size: cover;
+    text-align: center;
+
+
+
+}
+
+
+
+.logo{
+ position: absolute;
+ top: 1px;
+ width: 193px;
+ left: 30px;
+  
+ 
+  
+
+
+  
+}
+
+.button{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 25px;
+}
+.btn{
+    width: 88px;
+    height: 36px;
+    background-color: red;
+    border-style: none;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.text{
+    height: auto;
+    width:100% ;
+    color: aliceblue;
+}
+h1{
+    font-size: 53px;
+    font-family: sans-serif;
+
+}
+.pera{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.small-pera{
+   font-size: 18px;
+   font-family: sans-serif;
+}
+input{
+   height: 50px;
+   width: 500px;
+}
+
+.big-btn{
+    font-size: 17px;
+    height: 54px;
+    width: 260px;
+    background-color: red;
+    color: aliceblue;
+    border-style: none;
+    font-weight: bold;
+}
+
+::placeholder{
+    font-size: 20px;
+    text-align: start;
+    
+}
